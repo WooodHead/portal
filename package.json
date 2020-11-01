@@ -178,7 +178,7 @@
     "**/**/form-data": "^3",
     "**/**/fs-extra": "^9",
     "**/**/cookie": "^0",
-    "**/**/has-value": "^1",
+    "**/**/has-value": "^2.0.0",
     "**/**/has-values": "^1",
     "**/**/htmlparser2": "^5",
     "**/**/http-errors": "^1",
