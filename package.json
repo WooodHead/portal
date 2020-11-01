@@ -200,7 +200,7 @@
     "**/**/table": "^6",
     "**/**/cli-table3": "^0",
     "**/**/color": "^3",
-    "**/**/css-select": "^2",
+    "**/**/css-select": "^3.0.0",
     "**/**/supports-color": "^7",
     "**/**/string_decoder": "^1",
     "**/**/string-width": "^4",
