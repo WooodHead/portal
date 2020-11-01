@@ -104,7 +104,7 @@
     "**/**/jest-worker": "^26",
     "**/**/dotenv-webpack": "^5",
     "**/**/dotenv": "^8",
-    "**/**/download": "^7",
+    "**/**/download": "^8.0.0",
     "**/**/@angular-devkit/schematics": "^10",
     "**/**/@angular-devkit/core": "^10",
     "**/**/@ardatan/aggregate-error": "^0",
